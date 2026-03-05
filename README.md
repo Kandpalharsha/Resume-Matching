@@ -1,7 +1,8 @@
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-green)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
 ![React](https://img.shields.io/badge/React-Frontend-blue)
-![Algorithm](https://img.shields.io/badge/Algorithm-HuffmanCoding-purple)
+![Recharts](https://img.shields.io/badge/Recharts-DataVisualization-orange)
+![AI](https://img.shields.io/badge/AI-Resume%20Analysis-purple)
 ![Deployment](https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render-black)
 
 

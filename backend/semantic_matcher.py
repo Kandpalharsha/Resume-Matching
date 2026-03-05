@@ -1,8 +1,10 @@
 from sentence_transformers import SentenceTransformer, util
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def find_semantic_matches(resume_skills, job_skills):
+
+    # Load model ONLY when function is called
+    model = SentenceTransformer("all-MiniLM-L6-v2")
 
     matches = []
     missing = []

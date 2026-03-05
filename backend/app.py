@@ -4,6 +4,7 @@ from resume_parser import extract_resume_text
 from skill_extractor import extract_skills
 from scoring_engine import calculate_score
 from semantic_matcher import find_semantic_matches
+import os
 
 app = Flask(__name__)
 CORS(app)
@@ -37,5 +38,8 @@ def analyze():
             "Highlight relevant experience"
         ]
     })
+import os
+
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)

@@ -1,0 +1,32 @@
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+backend/venv/
+backend/__pycache__/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vibe Coding & Agent Files
+GEMINI.md
+AUDIT.md
+.gemini/
+.agents/

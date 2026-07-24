@@ -3,7 +3,7 @@
 ## Landing Page
 
 The landing page introduces MatchWise with a bold, modern interface and clearly communicates the platform's purpose. Users can quickly begin analyzing their resumes without unnecessary friction.
-![Landing Page]((assets/hero.png) 
+![Landing Page](assets/hero.png) 
 
 **MatchWise** is a robust, AI-powered application designed to bridge the gap between candidate resumes and job descriptions. Instead of guessing why an application was rejected, MatchWise provides a deep semantic breakdown of exactly what is missing, partially matching, or aligned with a specific role.
 

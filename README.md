@@ -1,8 +1,34 @@
 # MatchWise: Decode Your Match Rate
 
-![MatchWise Banner](/hero-image.png) *(Note: Replace with actual screenshot)*
+## Landing Page
+
+The landing page introduces MatchWise with a bold, modern interface and clearly communicates the platform's purpose. Users can quickly begin analyzing their resumes without unnecessary friction.
+![Landing Page]((assets/hero.png) 
 
 **MatchWise** is a robust, AI-powered application designed to bridge the gap between candidate resumes and job descriptions. Instead of guessing why an application was rejected, MatchWise provides a deep semantic breakdown of exactly what is missing, partially matching, or aligned with a specific role.
+
+## Resume & Job Description Upload
+
+Users can upload their resume and provide a job description to start the analysis. The interface is designed to be intuitive, responsive, and accessible across devices.
+
+![Upload](assets/upload.png)
+
+## Match Results
+
+The results page presents an overall compatibility score along with detailed insights into matched skills, missing keywords, and personalized recommendations to improve ATS performance.
+
+![Results 1](assets/analysis.png)
+## Skills Comparison
+
+A detailed comparison highlights skills present in the resume, skills required by the job description, and areas that need improvement for better matching.
+
+![Skill Breakdown](assets/analysis2.png)
+
+## Matchwise AI ChatBot
+
+An integrated AI chatbot helps users navigate the platform, answer resume-related questions, and provide instant guidance throughout the analysis process. It delivers contextual responses, making the resume optimization experience more interactive and user-friendly.
+
+![Matchwise AI Chatbot](assets/chatbot.png)
 
 ## 🚀 Features
 
